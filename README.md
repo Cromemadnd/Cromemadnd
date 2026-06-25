@@ -1,4 +1,12 @@
-## [Cromemadnd Lancity](https://blog.cromemadnd.cn/)
+## [Cromemadnd Lancity](https://cromemadnd.cn/)
+
+`Games` `Backend` `Graphics` `AI (CV / NLP)`
+
+懒狗，喜欢<ruby>有趣的<rt>おもしろい</rt></ruby>东西。
+
+> CAN I BE SAVED IF I’M NOTHING BUT LIGHTS IN A MACHINE, AN IMMORTAL COPY?
+> 
+> WHEN THERE IS NOTHING AND YOU’VE FINALLY LEFT ME, CAN I STEAL THE SOUND OF YOUR HEARTBEAT?
 
 <!--
 **Cromemadnd/Cromemadnd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,12 +23,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Cromemadnd&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Cromemadnd&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cromemadnd&layout=donut&theme=default)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cromemadnd&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
--->
-
-正在专精学习后端开发/Golang
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cromemadnd&layout=donut&theme=default&hide=typescript,c,scss,javascript)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cromemadnd&layout=donut&theme=dark&hide=typescript,c,scss,javascript)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
